@@ -3,3 +3,7 @@
 
 def add(a: float, b: float) -> float:
     return a + b
+
+
+def power(a: float, b: float) -> float:
+    return a ** b
